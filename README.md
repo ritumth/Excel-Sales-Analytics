@@ -1,4 +1,4 @@
-# Excel-Sales-Analytics
+# Sales-Financial Analytics |Excel|
 ## Sales Report :
 
 
